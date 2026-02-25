@@ -1,0 +1,20 @@
+
+   
+   
+    .App{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+    }
+
+   .container{
+    width:20% !important;
+    padding: 20px;
+    box-shadow: 0 0 10px lightgray;
+    display: flex;
+    flex-direction: column;
+    row-gap: 10px;
+    align-items: flex-start;
+    border-radius: 10px;
+   }
